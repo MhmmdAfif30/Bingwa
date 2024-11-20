@@ -18,31 +18,6 @@ MOOC (Massive Open Online Course) app is a versatile online learning platform th
 - Shera Alice Ayutri
 - Muhammad Afif Mu'tashim
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/final-project-b11.git
-
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Set up environment variables:
-
-   Create a .env file in the root directory and add the necessary variables. Refer to the .env.example file for guidance.
-
-4. Set up prisma:
-
-   ```bash
-   npx prisma migrate dev --name init
-   ```
-
 ## Usage
 
 For development with auto-restart (nodemon):
